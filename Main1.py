@@ -1,1 +1,1 @@
-
+print("Halo, Maria! Umurmu 30 tahun")
